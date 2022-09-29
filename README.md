@@ -30,4 +30,4 @@ We have a Nashville Housing Data containing feilds,fields on which we will be wo
 - Delete Unused Columns
 
 ## Conclusion
-After cleaning data, the resulted data will give better insights as compared to the previous uncleaned data.
+After cleaning data, the resulted data would give better insights as compared to the previous previous data.
