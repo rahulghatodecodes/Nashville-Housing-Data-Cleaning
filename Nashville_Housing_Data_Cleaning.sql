@@ -1,6 +1,9 @@
 /*
 
-Cleaning Data in SQL Queries
+#Nashville Housing Data
+
+
+#Objective: Data Cleaning using SQL Queries
 
 */
 
