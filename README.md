@@ -20,8 +20,7 @@ We have a Nashville Housing Data containing feilds,fields on which we will be wo
 ## Tools & Technologies used
 - Microsoft SQL Server Management Studio (SSMS)
 
-## Actions
-- Cleaning Data in SQL Queries
+## Tasks
 - Standardize Date Format
 - Populate Property Address data
 - Breaking out Address into Individual Columns (Address, City, State)
