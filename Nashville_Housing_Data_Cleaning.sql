@@ -1,9 +1,9 @@
 /*
 
-#Nashville Housing Data
+Nashville Housing Data
 
 
-#Objective: Data Cleaning using SQL Queries
+Objective: Data Cleaning using SQL Queries
 
 */
 
